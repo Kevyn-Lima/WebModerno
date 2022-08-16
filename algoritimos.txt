@@ -1,0 +1,59 @@
+
+
+	Conceito de algoritimo.
+
+Algoritimo seria o verbo, ação o preocessar das coisas.
+
+estruturas de dados, seria aquilo que processa todos os dados.
+
+Sequência de passos > 1 > 2 > 3 > 4 > 5
+
+tem uma questao da repetição, voce pode repetir alguns passos.
+
+como um fluxograma.
+
+tem doc ? se sim, assinar, e pergunta novamente, tem doc ? se não, passar para o proximo passo.
+
+um looping repetindo ações até nao ter mais para executar.
+
+
+Alem de repetir um passo, vc pode tomar uma posição, If e Else.
+
+Representação de algoritimo.
+
+Pode ser feito por fluxograma, linguagem natural, linguagem artificial, Pseudo-linguagem.
+
+Linguagem natural - Portugues, ingles, alemão, espanhol, são coisas naturais do cotidiano.
+
+Linguagens artificiais - C#, Java, PHP, JS, GO, Python.
+
+ 	
+Pseudo-linguage =
+
+     Algoritimo "SomaDoisValores"
+	declare
+	soma, a, b, c: inteiro;
+	 Inicio
+		Escreva("Digite dois numeros")
+		LEIA(a,b)
+		soma < a + b
+		Escreva (Soma)
+	 Fim
+
+
+=================================================
+
+	ESTRUTURAS DE DADOS
+
+O que são, estruturas de dados ?!
+
+é a organização e a administração dos dados.
+
+Estruturas de dados Básicas
+Int / Real / Letra / Bool
+
+Variaveis e constantes
+
+
+
+ 
