@@ -12,12 +12,13 @@
 <script>
 function myFunction() {
   var texto = document.getElementById("demo").innerHTML;
-  document.getElementById("demo").innerHTML = texto.toLowerCase();
+    document.getElementById("demo").innerHTML = texto.toUpperCase();
+  
 }
 
 function voltar(){
-    var texto = document.getElementById("demo").innerHTML;
-    document.getElementById("demo").innerHTML = texto.toUpperCase();
+  var texto = document.getElementById("demo").innerHTML;
+  document.getElementById("demo").innerHTML = texto.toLowerCase();
 }
 
 </script>
